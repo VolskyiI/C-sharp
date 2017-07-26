@@ -1,0 +1,5 @@
+C:\Users\Vania\Desktop\С#\Home work\2\Zadacha 3\Zadacha 3\bin\Debug\Zadacha 3.exe.config
+C:\Users\Vania\Desktop\С#\Home work\2\Zadacha 3\Zadacha 3\bin\Debug\Zadacha 3.exe
+C:\Users\Vania\Desktop\С#\Home work\2\Zadacha 3\Zadacha 3\bin\Debug\Zadacha 3.pdb
+C:\Users\Vania\Desktop\С#\Home work\2\Zadacha 3\Zadacha 3\obj\Debug\Zadacha 3.exe
+C:\Users\Vania\Desktop\С#\Home work\2\Zadacha 3\Zadacha 3\obj\Debug\Zadacha 3.pdb

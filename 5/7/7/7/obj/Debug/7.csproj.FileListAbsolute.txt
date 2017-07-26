@@ -1,0 +1,10 @@
+C:\Users\Vania\Desktop\С#\Home work\3\7\7\7\bin\Debug\7.exe.config
+C:\Users\Vania\Desktop\С#\Home work\3\7\7\7\bin\Debug\7.exe
+C:\Users\Vania\Desktop\С#\Home work\3\7\7\7\bin\Debug\7.pdb
+C:\Users\Vania\Desktop\С#\Home work\3\7\7\7\obj\Debug\7.exe
+C:\Users\Vania\Desktop\С#\Home work\3\7\7\7\obj\Debug\7.pdb
+C:\Users\Vania\Desktop\С#\Home work\5\7\7\7\bin\Debug\7.exe.config
+C:\Users\Vania\Desktop\С#\Home work\5\7\7\7\bin\Debug\7.exe
+C:\Users\Vania\Desktop\С#\Home work\5\7\7\7\bin\Debug\7.pdb
+C:\Users\Vania\Desktop\С#\Home work\5\7\7\7\obj\Debug\7.exe
+C:\Users\Vania\Desktop\С#\Home work\5\7\7\7\obj\Debug\7.pdb

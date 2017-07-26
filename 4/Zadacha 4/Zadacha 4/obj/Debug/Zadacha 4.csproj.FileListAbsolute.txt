@@ -1,0 +1,6 @@
+C:\Users\Vania\Desktop\С#\Home work\2\Zadacha 4\Zadacha 4\bin\Debug\Zadacha 4.exe.config
+C:\Users\Vania\Desktop\С#\Home work\2\Zadacha 4\Zadacha 4\bin\Debug\Zadacha 4.exe
+C:\Users\Vania\Desktop\С#\Home work\2\Zadacha 4\Zadacha 4\bin\Debug\Zadacha 4.pdb
+C:\Users\Vania\Desktop\С#\Home work\2\Zadacha 4\Zadacha 4\obj\Debug\Zadacha 4.csprojResolveAssemblyReference.cache
+C:\Users\Vania\Desktop\С#\Home work\2\Zadacha 4\Zadacha 4\obj\Debug\Zadacha 4.exe
+C:\Users\Vania\Desktop\С#\Home work\2\Zadacha 4\Zadacha 4\obj\Debug\Zadacha 4.pdb

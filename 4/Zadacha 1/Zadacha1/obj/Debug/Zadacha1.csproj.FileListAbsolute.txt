@@ -1,0 +1,12 @@
+C:\Users\Vania\Desktop\С#\Home work\2\Zadacha1\Zadacha1\obj\Debug\Zadacha1.csprojResolveAssemblyReference.cache
+C:\Users\Vania\Desktop\С#\Home work\2\Zadacha1\Zadacha1\bin\Debug\Zadacha1.exe.config
+C:\Users\Vania\Desktop\С#\Home work\2\Zadacha1\Zadacha1\bin\Debug\Zadacha1.exe
+C:\Users\Vania\Desktop\С#\Home work\2\Zadacha1\Zadacha1\bin\Debug\Zadacha1.pdb
+C:\Users\Vania\Desktop\С#\Home work\2\Zadacha1\Zadacha1\obj\Debug\Zadacha1.exe
+C:\Users\Vania\Desktop\С#\Home work\2\Zadacha1\Zadacha1\obj\Debug\Zadacha1.pdb
+C:\Users\Vania\Desktop\С#\Home work\2\Zadacha 1\Zadacha1\bin\Debug\Zadacha1.exe.config
+C:\Users\Vania\Desktop\С#\Home work\2\Zadacha 1\Zadacha1\bin\Debug\Zadacha1.exe
+C:\Users\Vania\Desktop\С#\Home work\2\Zadacha 1\Zadacha1\bin\Debug\Zadacha1.pdb
+C:\Users\Vania\Desktop\С#\Home work\2\Zadacha 1\Zadacha1\obj\Debug\Zadacha1.csprojResolveAssemblyReference.cache
+C:\Users\Vania\Desktop\С#\Home work\2\Zadacha 1\Zadacha1\obj\Debug\Zadacha1.exe
+C:\Users\Vania\Desktop\С#\Home work\2\Zadacha 1\Zadacha1\obj\Debug\Zadacha1.pdb

@@ -1,0 +1,6 @@
+C:\Users\Vania\Desktop\С#\Home work\9\4-8\4-8\bin\Debug\4-8.exe.config
+C:\Users\Vania\Desktop\С#\Home work\9\4-8\4-8\bin\Debug\4-8.exe
+C:\Users\Vania\Desktop\С#\Home work\9\4-8\4-8\bin\Debug\4-8.pdb
+C:\Users\Vania\Desktop\С#\Home work\9\4-8\4-8\obj\Debug\4-8.csprojResolveAssemblyReference.cache
+C:\Users\Vania\Desktop\С#\Home work\9\4-8\4-8\obj\Debug\4-8.exe
+C:\Users\Vania\Desktop\С#\Home work\9\4-8\4-8\obj\Debug\4-8.pdb

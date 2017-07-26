@@ -1,0 +1,56 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace _8
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            int max=int.MinValue;
+            int[,] a = new int[7, 5];
+            int[] b = new int[7];
+            Random ran = new Random();
+            for (int i = 0; i < 7; i++)
+            {
+                for (int j = 0; j < 5; j++)
+                {
+                    a[i, j] = ran.Next(1, 10);
+                 
+                    Console.Write("{0}\t", a[i, j]);
+
+                }
+
+                Console.WriteLine();
+
+            }
+            for (int l = 0; l < 7; l++)
+            {
+                for (int i = 0; i < 7; i++)
+                {
+                    for (int j = 0; j < 5; j++)
+                    {
+                        if (a[i, j] > max)
+                        {
+                            max = a[i, j];
+
+                        }
+                    }
+                  
+                    b[l] = max;
+                    l++;
+                    max = int.MinValue;
+
+                }
+            }
+            foreach (int u in b)
+            {
+                Console.WriteLine($"Масив максимальних значень рядків = {u}");
+            }
+            Console.ReadLine();
+        }
+    }
+}

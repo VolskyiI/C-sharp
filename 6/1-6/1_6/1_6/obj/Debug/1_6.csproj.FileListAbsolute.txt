@@ -1,0 +1,11 @@
+C:\Users\Vania\Desktop\С#\Home work\4\1-6\1_6\1_6\bin\Debug\1_6.exe.config
+C:\Users\Vania\Desktop\С#\Home work\4\1-6\1_6\1_6\bin\Debug\1_6.exe
+C:\Users\Vania\Desktop\С#\Home work\4\1-6\1_6\1_6\bin\Debug\1_6.pdb
+C:\Users\Vania\Desktop\С#\Home work\4\1-6\1_6\1_6\obj\Debug\1_6.exe
+C:\Users\Vania\Desktop\С#\Home work\4\1-6\1_6\1_6\obj\Debug\1_6.pdb
+C:\Users\Vania\Desktop\С#\Home work\6\1-6\1_6\1_6\bin\Debug\1_6.exe.config
+C:\Users\Vania\Desktop\С#\Home work\6\1-6\1_6\1_6\bin\Debug\1_6.exe
+C:\Users\Vania\Desktop\С#\Home work\6\1-6\1_6\1_6\bin\Debug\1_6.pdb
+C:\Users\Vania\Desktop\С#\Home work\6\1-6\1_6\1_6\obj\Debug\1_6.csprojResolveAssemblyReference.cache
+C:\Users\Vania\Desktop\С#\Home work\6\1-6\1_6\1_6\obj\Debug\1_6.exe
+C:\Users\Vania\Desktop\С#\Home work\6\1-6\1_6\1_6\obj\Debug\1_6.pdb
